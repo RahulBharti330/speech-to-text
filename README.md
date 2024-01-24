@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# SPEECH TO TEXT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was aimed to convert speech (voice meassage) into text format. Technologies used is HTML, CSS, ReactJS, react-speech-recognition.
 
 ## Available Scripts
 
