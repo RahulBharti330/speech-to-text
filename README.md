@@ -2,6 +2,8 @@
 
 This project was aimed to convert speech (voice meassage) into text format. Technologies used is HTML, CSS, ReactJS, react-speech-recognition.
 
+- Website Link - [click](https://voicewrite.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
